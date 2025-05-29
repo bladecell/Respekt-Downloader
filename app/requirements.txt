@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+tamga
+nodriver
+chardet
+python-dateutil
+lxml
